@@ -1,0 +1,34 @@
+INSERT INTO STUDENT (STUNAME,STUPNO,STUEMAIL,STUPASSWORD, STATUS) 
+VALUES ('Zaimi Bin Zakaria','018-77628112','zaimi@gmail.com','123','active'),
+('Ramli Bin Che Noh','017-8291312','ramli@gmail.com','123','active'),
+('Salleh Bin Rahim','011-9990132','sall@gmail.com','123','active'),
+('Saadiah Binti Shaari','014-8871132','sadiah@gmail.com','123','active'),
+('Liyana Binti Imran','013-77199314','liy@gmail.com','123','active'),
+('Siti Binti Hafizul','015-1543123','sit55@gmail.com','123','active'),
+('Intan Binti Nukman','018-9978213','intan@gmail.com','123','active'),
+('Farhan Bin Seman','018-8890131','paan@gmail.com','123','active'),
+('Faruqi Bin Mazlan','011-1001031','farrq@gmail.com','123','active'),
+('Hazman Bin Zain','010-9913913','hazmn@gmail.com','123','active'),
+('Sol Bin Dol','014-5461312','soldol@gmail.com','123','active'),
+('Firdaus Bin Sabri','012-3313412','fird@gmail.com','123','active'),
+('Bahrina Binti Fulan','011-3901341','barhn@gmail.com','123','active'),
+('Tatwina Binti Samon','014-5594132','tawon@gmail.com','123','active'),
+('Ahmad Bin Osman','015-1320131','ahmdosm@gmail.com','123','active')
+
+
+INSERT INTO registration (STUID, REGDATE, STATUS, REGSTATUS) 
+VALUES (10007, NOW(), 'Pending', 'active'),
+(10008, NOW(), 'Pending', 'active'),
+(10009, NOW(), 'Pending', 'active'),
+(10010, NOW(), 'Pending', 'active'),
+(10011, NOW(), 'Pending', 'active'),
+(10012, NOW(), 'Pending', 'active'),
+(10013, NOW(), 'Pending', 'active'),
+(10014, NOW(), 'Pending', 'active'),
+(10015, NOW(), 'Pending', 'active'),
+(10016, NOW(), 'Pending', 'active'),
+(10017, NOW(), 'Pending', 'active'),
+(10018, NOW(), 'Pending', 'active'),
+(10019, NOW(), 'Pending', 'active'),
+(10020, NOW(), 'Pending', 'active'),
+(10021, NOW(), 'Pending', 'active')
